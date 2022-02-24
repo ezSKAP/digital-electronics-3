@@ -6,11 +6,11 @@
 
    Greater than:
 
-   ![K-maps](images/kmap_empty.png)
+   ![image](https://user-images.githubusercontent.com/99410528/155530903-31e688c9-1fb0-4ed1-9fa8-79b99fd3129d.png)
 
    Less than:
 
-   ![K-maps](images/kmap_empty.png)
+   ![image](https://user-images.githubusercontent.com/99410528/155531038-e23518df-49e0-4e49-9dab-4d0c1e603ac9.png)
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
