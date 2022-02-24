@@ -25,13 +25,16 @@
    Last two digits of my student ID: 90
 p_stimulus : process
     begin
+    
     	-- Report a note at the beginning of stimulus process
         report "Stimulus process started" severity note;
+        
         -- Set one test case and wait 100 ns
         s_b <= "1001"; s_a <= "1001"; wait for 100 ns;
         assert ((s_B_greater_A = '0') and
                 (s_B_equals_A  = '1') and
                 (s_B_less_A    = '0'))
+                
         -- If false, then report an error
         report "Input combination 1001, 1001 FAILED" severity error;
         
