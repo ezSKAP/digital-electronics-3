@@ -1,0 +1,42 @@
+------------------------------------------------------------
+--
+-- Example of basic OR, AND, XOR gates.
+-- EDA Playground
+--
+-- Copyright (c) 2019-Present Tomas Fryza
+-- Dept. of Radio Electronics, Brno Univ. of Technology, Czechia
+-- This work is licensed under the terms of the MIT license.
+--
+------------------------------------------------------------
+
+library ieee;                -- Standard library
+use ieee.std_logic_1164.all; -- Package for data type
+                             -- and logic operations
+
+------------------------------------------------------------
+-- Entity declaration for basic gates
+------------------------------------------------------------
+entity comparator4bit is
+    port(
+        b_i     : in  std_logic_vector(4 - 1 downto 0); -- Data inputs
+        a_i     : in  std_logic_vector(4 - 1 downto 0);
+        -- COMPLETE THE ENTITY DECLARATION
+
+
+        B_less_A_o    : out std_logic;  -- B is less than A
+        B_greater_A_o : out std_logic;  -- B is more than A
+        B_equals_A_o  : out std_logic   -- B is equal than A
+    );
+end entity comparator4bit;
+
+------------------------------------------------------------
+-- Architecture body for basic gates
+------------------------------------------------------------
+architecture dataflow of comparator4bit is
+begin
+    -- WRITE "GREATER" AND "EQUALS" ASSIGNMENTS HERE
+
+    B_less_A_o    <= '1' when (b_i < a_i) else '0';
+    B_greater_A_o <= '1' when (b_i > a_i) else '0';  
+    B_equals_A_o  <= '1' when (b_i = a_i) else '0'; 
+end architecture dataflow;
