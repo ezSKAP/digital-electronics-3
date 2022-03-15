@@ -6,9 +6,10 @@ The Nexys A7 board provides two four-digit common anode seven-segment LED displa
 
 9.1 Seven-Segment Display
 The Nexys A7 board contains two four-digit common anode seven-segment LED displays, configured to behave like a single eight-digit display. Each of the eight digits is composed of seven segments arranged in a “figure 8” pattern, with an LED embedded in each segment. Segment LEDs can be individually illuminated, so any one of 128 patterns can be displayed on a digit by illuminating certain LED segments and leaving the others dark, as shown in Figure 9.1.1. Of these 128 possible patterns, the ten corresponding to the decimal digits are the most useful.
-![schema](images/schema3.png)
-![schema](images/schema2.png)
-![schema](images/schema1.png)
+![image](https://user-images.githubusercontent.com/99410528/158473077-0eebf619-d3c1-49b3-ab54-f6f34f783d18.png)
+![image](https://user-images.githubusercontent.com/99410528/158473131-cc491146-5be0-4711-a43e-e96ea7300c9a.png)
+![image](https://user-images.githubusercontent.com/99410528/158473184-f847db65-ade3-4b1c-9e29-60c8c160ba4a.png)
+
 
 
 2. Complete the decoder truth table for **common anode** 7-segment display.
@@ -32,7 +33,7 @@ The Nexys A7 board contains two four-digit common anode seven-segment LED displa
    | E | 1110 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
    | F | 1111 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
 
-   > ![https://lastminuteengineers.com/seven-segment-arduino-tutorial/](images/7-Segment-Display-Number-Formation-Segment-Contol.png)
+   > ![image](https://user-images.githubusercontent.com/99410528/158473025-eb0d5539-90b1-43bc-8b63-e8338bef40b6.png)
    >
    > The image above was used from website: [How Seven Segment Display Works & Interface it with Arduino](https://lastminuteengineers.com/seven-segment-arduino-tutorial/).
    >
