@@ -1,4 +1,4 @@
-# Lab 6: Ivo Dovicak
+# Lab 6: Mucha Jan
 
 ### Bidirectional counter
 
