@@ -49,7 +49,20 @@ On this board we will use 4 buttons as our inputs(UP = _, DOWN =., CENTER = ENTE
 <a name="modules"></a>
 ## VHDL modules description and simulations
 
-Write your text here.
+**IMPUTT**
+
+This module is created to take button presses, depending on button thats been pressed, the module will assign value (UP will assign 1 and DOWN will assign 0), pressing left button will delete last value(in case of input  mistake) and center button works as enter and will end the input phase of character.
+
+**TRANSLATE**
+
+Translate module works as character map, morse code input will be translated into code input for seven segment display driver and exported to hex_7seg module.
+
+**CLOCK_ENABLE**
+
+**HEX_7SEG**
+This module works very similar to the one we programmed in lecture, but we rewrote it to work for us(added all characters in alphabet) as seen in next picture.
+
+![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/mapa_znaku.png)
 
 
 <a name="top"></a>
@@ -65,10 +78,10 @@ In the next video we will shortly introduce you to our project.
 
 [YOUTUBE VIDEO](https://github.com/...)
 
-
 [PRESENTATION](https://vutbr-my.sharepoint.com/:p:/g/personal/xmucha11_vutbr_cz/EfuMuLWZGjlKjdNw_ewh3QQBPMM-HOBnsedU1G0o26pXcA?e=4Flh2b)
+
 <a name="references"></a>
 ## References
 
-This project was created with help from our past lectures and our  brains.
+This project was created with help from our past lectures and our brains.
 
