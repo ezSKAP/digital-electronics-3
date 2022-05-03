@@ -85,7 +85,7 @@ In the upcoming picture we can see time simulation in base case, without any inp
 
 ![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/simulace.png)
 
-Picture number two is simulated phrase SOS in morse code.
+Picture number two is simulated phrase "SOS" in morse code.
 
 ![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/sos_simulace.png)
 
