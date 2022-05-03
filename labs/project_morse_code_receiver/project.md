@@ -66,7 +66,7 @@ In the next video we will shortly introduce you to our project.
 [YOUTUBE VIDEO](https://github.com/...)
 
 
-[PRESENTATION](https://github.com/...)
+[PRESENTATION](https://vutbr-my.sharepoint.com/:p:/g/personal/xmucha11_vutbr_cz/EfuMuLWZGjlKjdNw_ewh3QQBPMM-HOBnsedU1G0o26pXcA?e=4Flh2b)
 <a name="references"></a>
 ## References
 
