@@ -70,8 +70,11 @@ This module works very similar to the one we programmed in lecture, but we rewro
 <a name="top"></a>
 ## TOP module description and simulations
 
-Write your text here.
+**TOP module**
 
+
+**SIMULATION**
+![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/deska_orig.png)
 
 <a name="video"></a>
 ## Video
