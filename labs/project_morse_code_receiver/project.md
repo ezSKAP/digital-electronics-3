@@ -64,11 +64,14 @@ Translate module works as character map, morse code input will be translated int
 
 This module is exact one we used in previous lectures, because we didnt need to rewrite anything. Its used to create input 100MHz clock signal.
 
+[Clock enable used from lectures](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/08-janevimuz/traffic/traffic.srcs/sources_1/new/clock_enable.vhd)
+
 **HEX_7SEG**
 This module works very similar to the one we programmed in lecture, but we rewrote it to work for us(added all characters in alphabet) as seen in next picture.
 
 ![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/mapa_znaku.png)
 
+[Seven segment display driver from lecture](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/04-segment/project_1/project_1.srcs/sources_1/new/hex_7seg.vhd)
 
 <a name="top"></a>
 ## TOP module description and simulations
