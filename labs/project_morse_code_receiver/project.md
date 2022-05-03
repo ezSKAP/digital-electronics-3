@@ -2,10 +2,10 @@
 
 ### Team members
 
-* Dominik Vaško 
-* Jan Mucha 
-* Martin Paseka 
-* Gabriel Škápík
+* Dominik Vaško (Coding)
+* Jan Mucha (Coding, Video)
+* Martin Paseka (Coding, Presentation)
+* Gabriel Škápík(Coding, Video, Github)
 
 Link to your GitHub project folder:
 
