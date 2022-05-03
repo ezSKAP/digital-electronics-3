@@ -9,7 +9,7 @@
 
 Link to your GitHub project folder:
 
-   [PROJECT REPOSITORY](https://github.com/...)
+   [PROJECT REPOSITORY](https://github.com/Hans22301/digital-electronics-1/tree/main/labs/project_morse_code_receiver)
 
 
 ### Table of contents
