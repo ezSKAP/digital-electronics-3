@@ -76,9 +76,14 @@ Top module is made to combine all other modules together and make them work for 
 ![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/obrázek_2022-05-04_004706754.png)
 
 **SIMULATION**
+
 In the upcoming picture we can see time simulation in base case, without any input.
 
 ![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/simulace.png)
+
+Picture number two is SOS translated in morse code tested on simulation.
+
+![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/sos_simulace.png)
 
 <a name="video"></a>
 ## Video
