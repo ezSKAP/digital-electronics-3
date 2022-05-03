@@ -34,7 +34,7 @@ In this exact project  is our objective to complete "Morse code reciever" an we 
 	
 3. Create TOP source file that would use our translate program and our inserting program and with help from seven segment driver and clock enabling program, to show recieved character.
 	
-	 ![your figure]()
+	 ![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/diagram_proj.png)
 
 <a name="hardware"></a>
 ## Hardware description
