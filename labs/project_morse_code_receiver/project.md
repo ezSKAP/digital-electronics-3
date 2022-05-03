@@ -39,8 +39,9 @@ In this exact project  is our objective to complete "Morse code reciever" an we 
 <a name="hardware"></a>
 ## Hardware description
 
-Write your text here.
-
+As our hardware we are using board Nexys A7-50t.
+![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/deska_orig.png)
+On this board we will use 4 buttons as our inputs(UP = _, DOWN =., CENTER = ENTER, LEFT = BACKSPACE), 100MHz clock, seven segment display to print out final characters.
 
 <a name="modules"></a>
 ## VHDL modules description and simulations
