@@ -35,7 +35,7 @@ In this exact project  is our objective to complete "Morse code reciever" an we 
 	
 3. Create TOP source file that would use our translate program and our inserting program and with help from seven segment driver and clock enabling program, to show recieved character.
 	
-![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/diagram_proj.png)
+![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/obrázek_2022-05-04_004706754.png)
 
 <a name="hardware"></a>
 ## Hardware description
@@ -72,6 +72,8 @@ This module works very similar to the one we programmed in lecture, but we rewro
 
 **TOP module**
 Top module is made to combine all other modules together and make them work for our hardware board. So basicaly it takes all inputs and combine them  with our  constrains file (direct property setting for exact board periferies.
+
+![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/obrázek_2022-05-04_004706754.png)
 
 **SIMULATION**
 In the upcoming picture we can see time simulation in base case, without any input.
