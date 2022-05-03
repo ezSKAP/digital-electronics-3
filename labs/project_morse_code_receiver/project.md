@@ -9,7 +9,7 @@
 
 Link to your GitHub project folder:
 
-   [https://github.com/...](https://github.com/...)
+   [PROJECT REPOSITORY](https://github.com/...)
 
 
 ### Table of contents
@@ -59,9 +59,10 @@ Write your text here.
 <a name="video"></a>
 ## Video
 
-Write your text here
+In the next video we will shortly introduce you to our project.
+ [YOUTUBE VIDEO](https://github.com/...)
 
-
+ [PRESENTATION](https://github.com/...)
 <a name="references"></a>
 ## References
 
