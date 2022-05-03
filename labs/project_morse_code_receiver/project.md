@@ -59,6 +59,8 @@ Translate module works as character map, morse code input will be translated int
 
 **CLOCK_ENABLE**
 
+This module is exact one we used in previous lectures, because we didnt need to rewrite anything. Its used to create input 100MHz clock signal.
+
 **HEX_7SEG**
 This module works very similar to the one we programmed in lecture, but we rewrote it to work for us(added all characters in alphabet) as seen in next picture.
 
