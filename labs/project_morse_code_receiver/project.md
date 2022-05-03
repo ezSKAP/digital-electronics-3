@@ -74,7 +74,8 @@ This module works very similar to the one we programmed in lecture, but we rewro
 ## TOP module description and simulations
 
 **TOP module**
-Top module is made to combine all other modules together and make them work for our hardware board. So basicaly it takes all inputs and combine them  with our  constrains file (direct property setting for exact board periferies.
+
+Top module is made to combine all other modules together and make them work for our hardware board. So basicaly it takes all inputs and combine them  with our  constrains file (direct property setting for exact board periferies).
 
 ![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/obrázek_2022-05-04_004706754.png)
 
