@@ -10,6 +10,9 @@
 Link to your GitHub project folder:
 
    [PROJECT REPOSITORY](https://github.com/Hans22301/digital-electronics-1/tree/main/labs/project_morse_code_receiver)
+   
+   This project was created in Vivado 2020.2 so there is big chance bit stream wont be uplodable on board.
+   (There was a human error while instaling Vivado on  our  computers.)
 
 
 ### Table of contents
