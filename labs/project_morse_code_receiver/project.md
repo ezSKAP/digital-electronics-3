@@ -71,10 +71,12 @@ This module works very similar to the one we programmed in lecture, but we rewro
 ## TOP module description and simulations
 
 **TOP module**
-
+Top module is made to combine all other modules together and make them work for our hardware board. So basicaly it takes all inputs and combine them  with our  constrains file (direct property setting for exact board periferies.
 
 **SIMULATION**
-![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/simulation.png)
+In the upcoming picture we can see time simulation in base case, without any input.
+
+![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/simulace.png)
 
 <a name="video"></a>
 ## Video
