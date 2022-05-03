@@ -70,4 +70,5 @@ In the next video we will shortly introduce you to our project.
 <a name="references"></a>
 ## References
 
-1. Write your text here.
+This project was created with help from our past lectures and our  brains.
+
