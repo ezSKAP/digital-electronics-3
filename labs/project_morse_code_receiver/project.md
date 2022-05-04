@@ -56,9 +56,18 @@ On this board we will use 4 buttons as our inputs(UP = _, DOWN =., CENTER = ENTE
 
 This module is created to take button presses, depending on button thats been pressed, the module will assign value (UP will assign 1 and DOWN will assign 0), pressing left button will delete last value(in case of input  mistake) and center button works as enter and will end the input phase of character.
 
+Simulation of IMPUT
+![image](https://user-images.githubusercontent.com/99410528/166611413-f080a8bb-5919-4b15-a466-ca046034df63.png)
+
 **TRANSLATE**
 
 Translate module works as character map, morse code input will be translated into code input for seven segment display driver and exported to hex_7seg module.
+
+Simulation of TRANSLATE
+![image](https://user-images.githubusercontent.com/99410528/166611459-8e13f3c0-be84-4792-8570-797bbd20b69e.png)
+
+Simulation of enhanced HEX_7SEG
+![image](https://user-images.githubusercontent.com/99410528/166611549-d46f2802-08c0-4116-b921-ef30450a4516.png)
 
 **CLOCK_ENABLE**
 
